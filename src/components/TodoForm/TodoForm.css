@@ -1,0 +1,23 @@
+form input{
+    width:350px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+form input:focus{
+    outline: none;
+}
+
+form button{
+    cursor: pointer;
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 1px;
+}
+form button:focus{
+    outline: none;
+}
